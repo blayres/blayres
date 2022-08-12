@@ -1,6 +1,8 @@
 # <p align="center"> Hi there 👋
 
 ![welcome_gift](welcome.gif)
+    
+<p align="center"> AAAAAAAAAAAAAAAAAAAAAAAAA
 
 ### :computer: Operating systems
 <p>
