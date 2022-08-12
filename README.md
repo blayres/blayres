@@ -34,7 +34,7 @@ Aaaaaaaa
 
 Aaaaaaaa
 
-#### [Front-end journey](https://github.com/blayres/AyresBarbara_P6)
+#### [Fisheye - Creation of an accessible site for a platform of photographers](https://github.com/blayres/AyresBarbara_P6)
 
 Aaaaaaaa
 
