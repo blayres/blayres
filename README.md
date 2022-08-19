@@ -2,7 +2,7 @@
 
 ![welcome_gift](welcome.gif)
     
-<p align="center"> AAAAAAAAAAAAAAAAAAAAAAAAA
+<p align="center"> 
 
 ### :computer: Operating systems
 <p>
