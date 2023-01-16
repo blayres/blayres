@@ -34,15 +34,15 @@
 
 #### [Les Petits Plats - Development of a search algorithm in JavaScript](https://github.com/blayres/P7_ayres_barbara)
 
-Aaaaaaaa
+
 
 #### [Booki - Transformation of a model into a website with HTML & CSS](https://github.com/blayres/AyresBarbara_1_09012022)
 
-Aaaaaaaa
+
 
 #### [Fisheye - Creation of an accessible site for a platform of photographers](https://github.com/blayres/AyresBarbara_P6)
 
-Aaaaaaaa
+
 
 <!--**diandramelo/diandramelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
