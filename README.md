@@ -30,20 +30,6 @@
     <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
 </p>
 
-### :bulb: Check out my main projects:
-
-#### [Les Petits Plats - Development of a search algorithm in JavaScript](https://github.com/blayres/P7_ayres_barbara)
-
-
-
-#### [Booki - Transformation of a model into a website with HTML & CSS](https://github.com/blayres/AyresBarbara_1_09012022)
-
-
-
-#### [Fisheye - Creation of an accessible site for a platform of photographers](https://github.com/blayres/AyresBarbara_P6)
-
-
-
 <!--**diandramelo/diandramelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
